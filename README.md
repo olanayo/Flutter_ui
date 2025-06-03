@@ -1,12 +1,22 @@
 # ui_app
 
-A new Flutter project.
+A simple and clean Flutter Ui project.
 
-## Getting Started
+## Pages included:
+- Add Friends
+- Chat Page
+- Home Page
+- Search Bar
 
-This project is a starting point for a Flutter application.
+## How to run
 
-A few resources to get you started if this is your first Flutter project:
+'''bash
+flutter pub get
+flutter run
+
+Note: This is a practice Ui project built with Flutter and Dart using Andriod studio
+ Author : Abubakar -@olanayo
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
